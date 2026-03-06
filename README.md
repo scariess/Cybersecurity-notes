@@ -1,12 +1,12 @@
 
-# Cybersecurity-notes
+# Pre-University Cybersecurity notes
 
-learning journey before uni starts :3, idk how github works so exposing myself with it until I get use to it 𝜗ৎ
+learning journey before uni starts 𝜗ৎ
 
 ## Platforms
-- TryHackMe
+- TryHackMe ( in progress )
 - Youtube
-- Google Cybersecurity Proffesional Certicate ( coursera )
+- Google Cybersecurity Proffesional Certicate (Coursera)
 
 ## Dragons Slayed
 - Networking Fundamentals
@@ -27,8 +27,6 @@ cybersecurity-notes
 │
 ├── README.md
 │
-├── networking
-│   └── intro-to-lan.pdf
-│
-└──
+└── networking
+   └── intro-to-lan.pdf
 ```
