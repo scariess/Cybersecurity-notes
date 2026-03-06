@@ -8,7 +8,20 @@ learning journey before uni stars :3, idk how github works so exposing myself wi
 - Google Cybersecurity Proffesional Certicate ( coursera )
 
 ## Dragons Slayed
-- Networking fundamentals
-- LAN basics
+- Networking Fundamentals
+- LAN Basics
 
-⊹₊ will write more as I progress ‿︵‧˚₊⊹
+♡.° will write more as I progress ꒰ᐢ. .ᐢ꒱
+
+## Repository Structure
+
+```
+cybersecurity-notes
+│
+├── README.md
+│
+├── networking
+│   ├── intro-to-lan.pdf
+│
+└──
+```
