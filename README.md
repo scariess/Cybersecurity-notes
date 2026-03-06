@@ -1,7 +1,7 @@
 
 # Cybersecurity-notes
 
-learning journey before uni stars :3, idk how github works so exposing myself with it until I get use to it 𝜗ৎ
+learning journey before uni starts :3, idk how github works so exposing myself with it until I get use to it 𝜗ৎ
 
 ## Platforms
 - TryHackMe
