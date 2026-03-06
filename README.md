@@ -15,8 +15,11 @@ learning journey before uni stars :3, idk how github works so exposing myself wi
 ♡.° will write more as I progress ꒰ᐢ. .ᐢ꒱
 
 ## . ˖  ꒰𑁬 NOTES ໒꒱  ˖ .
+
 ### Networking
-- [Intro to LAN] (intro-to-lan.pdf)
+- [Intro to LAN](intro-to-lan.pdf)
+
+  
 ## Repository Structure
 
 ```
