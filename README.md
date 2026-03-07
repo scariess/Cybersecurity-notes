@@ -11,6 +11,7 @@ learning journey before uni starts 𝜗ৎ
 ## Dragons Slayed
 - Networking Fundamentals
 - LAN Basics
+- OSI Models
 
 ♡.° will write more as I progress ꒰ᐢ. .ᐢ꒱
 
@@ -18,6 +19,7 @@ learning journey before uni starts 𝜗ৎ
 
 ### Networking
 - [Intro to LAN](intro-to-lan.pdf)
+- [OSI](osi_models.pdf)
 
   
 ## Repository Structure
@@ -28,5 +30,6 @@ cybersecurity-notes
 ├── README.md
 │
 └── networking
-   └── intro-to-lan.pdf
+   ├── intro-to-lan.pdf
+   └── osi_models.pdf
 ```
