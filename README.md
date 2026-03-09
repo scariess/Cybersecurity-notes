@@ -12,6 +12,7 @@ learning journey before uni starts 𝜗ৎ
 - Networking Fundamentals
 - LAN Basics
 - OSI Models
+- How The Web Works
 
 ♡.° will write more as I progress ꒰ᐢ. .ᐢ꒱
 
