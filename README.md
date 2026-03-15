@@ -1,20 +1,15 @@
 
-# Pre-University Cybersecurity notes
+# Pre-University Cybersecurity
 
 learning journey before uni starts 𝜗ৎ
 
 ## Platforms
 - TryHackMe ( in progress )
 - Youtube
-- Google Cybersecurity Proffesional Certicate (Coursera)
+- Portswigger web security academy
 
 ## Dragons Slayed
-- Networking Fundamentals
-- LAN Basics
-- OSI Models
-- How The Web Works
-
-♡.° will write more as I progress ꒰ᐢ. .ᐢ꒱
+<img src="images/THM-Pre-Sec.jpg"/>
 
 ## . ˖  ꒰𑁬 NOTES ໒꒱  ˖ .
 
