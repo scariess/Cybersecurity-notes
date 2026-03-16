@@ -16,6 +16,7 @@ learning journey before uni starts 𝜗ৎ
 ### Networking
 - [Intro to LAN](intro-to-lan.pdf)
 - [OSI](osi-models.pdf)
+- [OS Security](OsSec.pdf)
 
   
 ## Repository Structure
