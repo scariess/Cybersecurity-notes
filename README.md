@@ -13,10 +13,10 @@ learning journey before uni starts 𝜗ৎ
 
 ## . ˖  ꒰𑁬 NOTES ໒꒱  ˖ .
 
-### Networking
 - [Intro to LAN](intro-to-lan.pdf)
 - [OSI](osi-models.pdf)
 - [OS Security](OsSec.pdf)
+- [Basic Commands hehe](basic.pdf)
 
   
 ## Repository Structure
