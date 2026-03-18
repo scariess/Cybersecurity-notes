@@ -17,6 +17,7 @@ learning journey before uni starts 𝜗ৎ
 - [OSI](osi-models.pdf)
 - [OS Security](OsSec.pdf)
 - [Basic Commands hehe](basic.pdf)
+- [Web Exploitation](webexploit.pdf)
 
   
 ## Repository Structure
