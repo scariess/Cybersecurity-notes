@@ -8,9 +8,6 @@ learning journey before uni starts 𝜗ৎ
 - Youtube
 - Portswigger web security academy
 
-## Dragons Slayed
-<img src="images/THM-Pre-Sec.jpg"/>
-
 ## . ˖  ꒰𑁬 NOTES ໒꒱  ˖ .
 
 - [Intro to LAN](intro-to-lan.pdf)
