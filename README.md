@@ -1,4 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ef55b931-accf-4422-b1f9-b9c57ff3acf1" />
 # Pre-University Cybersecurity
 
 learning journey before uni starts 𝜗ৎ
@@ -27,8 +26,8 @@ cybersecurity-notes
 │
 └── Fundamentals
 │   ├── intro-to-lan.pdf
-    ├── osi_models.pdf
-    ├── OsSec.pdf
+│   ├── osi_models.pdf
+│   ├── OsSec.pdf
 │   └── basic.pdf
 │
 └── JR pen test
