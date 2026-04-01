@@ -15,6 +15,7 @@ learning journey before uni starts 𝜗ৎ
 - [Basic Commands hehe](basic.pdf)
 - [Web Exploitation](webexploit.pdf)
 - [File Inclusion](FI.pdf)
+- [SSRF](SSRF.pdf)
 
   
 ## Repository Structure
@@ -32,7 +33,8 @@ cybersecurity-notes
 │
 └── JR pen test
     ├── webexploit.pdf
-    └── FI.pdf
+    ├── FI.pdf
+    └── SSRF.pdf
 
 
 ```
