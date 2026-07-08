@@ -16,6 +16,7 @@ learning journey before uni starts 𝜗ৎ
 - [Web Exploitation](webexploit.pdf)
 - [File Inclusion](FI.pdf)
 - [SSRF](SSRF.pdf)
+- [stacks on stacks onn stacks](ModernWebStacks.pdf)
 
   
 ## Repository Structure
